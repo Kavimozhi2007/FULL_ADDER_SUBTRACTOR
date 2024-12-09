@@ -1,6 +1,3 @@
-# FULL_ADDER_SUBTRACTOR
-
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
 
@@ -37,6 +34,9 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+![WhatsApp Image 2024-12-09 at 9 09 54 PM](https://github.com/user-attachments/assets/eecd4c81-82b7-43d4-93b0-6f651bb9b61a)
+![WhatsApp Image 2024-12-09 at 9 09 58 PM](https://github.com/user-attachments/assets/37ab131c-ea4a-48e2-b6ff-ca764a5b1ea1)
+
 
 **Procedure**
 
@@ -48,8 +48,20 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+full adder
+![full addre](https://github.com/user-attachments/assets/3f783c54-3a8b-4ab5-b587-67b0f14c77ff)
+full subractor
+![full subractor](https://github.com/user-attachments/assets/d3b6a9da-03e1-4324-b89b-71406e8b8185)
+
 
 **Output Timing Waveform**
+full adder
+
+![full adder](https://github.com/user-attachments/assets/ada231bc-0572-4a87-8635-28f781874c03)
+
+full subractor
+
+![full subractor waveform](https://github.com/user-attachments/assets/869ba30f-5cd9-4a6d-bf4c-cfee964d5bcc)
 
 **Result:**
 
